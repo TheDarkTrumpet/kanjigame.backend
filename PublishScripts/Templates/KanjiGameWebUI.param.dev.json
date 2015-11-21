@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "kanjigamews"
+  },
+  "hostingPlanName": {
+    "value": "kanjigame"
+  },
+  "siteLocation": {
+    "value": "Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "kanjigame"
+  },
+  "serverLocation": {
+    "value": "East US"
+  },
+  "administratorLogin": {
+    "value": "kanj1G4me"
+  },
+  "administratorLoginPassword": {
+    "value": "75c8nmz$1a"
+  },
+  "databaseName": {
+    "value": "kanjigamews_db"
+  }
+}
